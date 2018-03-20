@@ -11,17 +11,17 @@ I graduated from Oklahoma State University with a Bachelor of Science Degree in 
 
 #### Portfolio
 
-[Crystal Game](https://mbizzle1464.github.io/week-4-game/)
-[Hangman Game](https://mbizzle1464.github.io/hangman-game/)
-[Trivia Game](https://mbizzle1464.github.io/TriviaGame/)
-[Giphy Game](https://mbizzle1464.github.io/giphy/)
-[Train Scheduler](https://mbizzle1464.github.io/train-scheduler/)
+* [Crystal Game](https://mbizzle1464.github.io/week-4-game/)
+* [Hangman Game](https://mbizzle1464.github.io/hangman-game/)
+* [Trivia Game](https://mbizzle1464.github.io/TriviaGame/)
+* [Giphy Game](https://mbizzle1464.github.io/giphy/)
+* [Train Scheduler](https://mbizzle1464.github.io/train-scheduler/)
 
 ### Connect With Me
 
-[Github](https://github.com/mbizzle1464)
-[Linkedin](https://www.linkedin.com/in/michael-bizzle-3107b73b/)
-[Stack Overflow](https://stackoverflow.com/users/8959778/michael-bizzle)
+* [Github](https://github.com/mbizzle1464)
+* [Linkedin](https://www.linkedin.com/in/michael-bizzle-3107b73b/)
+* [Stack Overflow](https://stackoverflow.com/users/8959778/michael-bizzle)
 
 ### Copyright and License
 
